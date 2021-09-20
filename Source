@@ -1,1 +1,10 @@
-loadstring(game:HttpGet("https://pastebin.com/raw/yLSHhFbL", true))()
+loadstring(game:HttpGet("https://pastebin.com/raw/EsPi4AHi", true))()
+wait(0.1)
+getgenv().ReanimateVersion = "v2" --change to v5 if want lol
+
+loadstring(game:HttpGet(('https://pastebin.com/raw/9y62Q1Pz'),true))()
+game:GetService("StarterGui"):SetCore("SendNotification", { 
+	Title = "Made By: yDex";
+	Text = "Used Null's ReAnim v1.1";
+	Icon = " "})
+Duration = 16;
